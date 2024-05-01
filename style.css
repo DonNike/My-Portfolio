@@ -818,6 +818,7 @@ header.sticky .nav-bar{
 }
 .contact-form .second-row input{
     width: 48%;
+    margin-right: 10px;
 }
 .contact-form .btn{
     border: none;
@@ -1043,7 +1044,7 @@ footer a{
     }
     .home-container .home-img img{
         width: 65%;
-        transform: translate(80px, -90px);
+        transform: translate(80px, -180px);
     }
     .home .home-container .info{
         font-size: 0.8rem;
