@@ -136,3 +136,4 @@ ScrollReveal().reveal('.about .professional-list li', { delay: 500, origin: 'rig
 ScrollReveal().reveal('.skills-description, service-description, .contact-card, contact-left h2', { delay: 700, origin: 'left' });
 ScrollReveal().reveal('.experience-card, .service-card, .education, .portfolio', { delay: 800, origin: 'bottom', interval: 200 });
 ScrollReveal().reveal('footer .group', { delay: 500, origin: 'top' });
+

@@ -241,7 +241,7 @@ header.sticky .nav-bar{
     position: relative;
 }
 .home-container .home-img img{
-    width: 90%;
+    width: 60%;
     transform: translate(0, 0);
 }
 .home .scroll-down{
@@ -461,7 +461,7 @@ header.sticky .nav-bar{
     width: 85%;
 }
 .bar .javascript:before{
-    width: 69%;
+    width: 65%;
 }
 .bar .bootstrap:before{
     width: 75%;
